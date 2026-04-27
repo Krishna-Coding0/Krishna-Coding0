@@ -36,8 +36,14 @@
 
 ---
 
-<h2 align="center"> Tech Stack </h2>
-### 🧠 AI / ML
+<h1 align="center"><b>Tech Stack</b></h1>
+
+---
+
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" height="25"/> 
+  AI / ML
+</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> Python
   <img width="20"/>
