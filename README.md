@@ -14,8 +14,6 @@
 ---
 
 <h2 align="center">About Me</h2>
-<p align="center">──────────────</p>
-
 - AI Engineer focused on **Generative AI, RAG & LLM applications**
 - Strong in **Machine Learning & Deep Learning with real-world implementation**
 - Backend developer using **Django & FastAPI**
