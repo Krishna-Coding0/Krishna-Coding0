@@ -102,7 +102,7 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> GitHub
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" height="40"/> MLflow
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MLflow-logo-final-black.png" height="40"/> MLflow
 </div>
 
 ---
@@ -112,15 +112,14 @@
   Featured Projects
 </h2>
 
-### 🧠 RAG-Bot Pro
+### RAG-Bot Pro
 - Built an advanced **RAG system** for querying documents (PDF, Word, Images)
 - Tech: **LangChain, ChromaDB, OpenAI**
 - Features:
   - Semantic search  
   - Context-aware responses  
   - Multi-format document support  
-- 🔗 Live Demo: YOUR_LINK  
-- 🔗 GitHub Repo: YOUR_REPO  
+- 🔗 GitHub Repo: [YOUR_REPO](https://github.com/Krishna-Coding0/RAG-ChatBOT)  
 
 ---
 
@@ -144,8 +143,8 @@
   Connect With Me
 </h2>
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: your.email@example.com  
+- LinkedIn: [https://linkedin.com/in/YOUR_LINK  ](https://www.linkedin.com/in/krishna-kumar-singh01/)
+- Email: krishk2100@gmail.com
 
 ---
 
