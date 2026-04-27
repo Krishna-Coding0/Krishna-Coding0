@@ -119,7 +119,7 @@
   - Semantic search  
   - Context-aware responses  
   - Multi-format document support  
-- 🔗 GitHub Repo: [YOUR_REPO](https://github.com/Krishna-Coding0/RAG-ChatBOT)  
+- 🔗 GitHub Repo: [RAG-ChatBOT](https://github.com/Krishna-Coding0/RAG-ChatBOT)  
 
 ---
 
@@ -143,7 +143,7 @@
   Connect With Me
 </h2>
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINK  ](https://www.linkedin.com/in/krishna-kumar-singh01/)
+- LinkedIn: [Krishna Kumar Singh  ](https://www.linkedin.com/in/krishna-kumar-singh01/)
 - Email: krishk2100@gmail.com
 
 ---
