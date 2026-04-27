@@ -11,42 +11,48 @@
 </table>
 
 ---
-
 ## 🚀 About Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%7C%20RAG%20%7C%20LLMs-blue?style=for-the-badge"/>
-  - AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications** <br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20MongoDB-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-End--to--End%20Deployment-purple?style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%7C%20RAG%20%7C%20LLMs-blue?style=for-the-badge"/><br/>
+  - AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications** <br/><br/>
 
-- AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications**
-- Strong understanding of **Machine Learning & Deep Learning concepts with practical implementation**
-- Backend developer experienced in building scalable APIs using **Django & FastAPI**
-- Hands-on experience with **MySQL and MongoDB for production-level systems**
-- Focused on **end-to-end AI systems including training, evaluation, and deployment (MLOps)**
+  <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-orange?style=for-the-badge"/><br/>
+  - Strong understanding of **Machine Learning & Deep Learning concepts with practical implementation** <br/><br/>
+
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-green?style=for-the-badge"/><br/>
+  - Backend developer experienced in building scalable APIs using **Django & FastAPI** <br/><br/>
+
+  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20MongoDB-red?style=for-the-badge"/><br/>
+  - Hands-on experience with **MySQL and MongoDB for production-level systems** <br/><br/>
+
+  <img src="https://img.shields.io/badge/MLOps-End--to--End%20Deployment-purple?style=for-the-badge"/><br/>
+  - Focused on **end-to-end AI systems including training, evaluation, and deployment (MLOps)** 
+</p>
 
 ---
 
 ## 🧠 AI / ML Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20Prompt%20Engineering-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Transformers-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%7C%20LSTM-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Optimization%20%7C%20Scaling-purple?style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20Prompt%20Engineering-black?style=for-the-badge"/><br/>
+  - Build and optimize **LLM-based applications using prompt engineering and GenAI techniques** <br/><br/>
 
-- Build and optimize **LLM-based applications using prompt engineering and GenAI techniques**
-- Design **RAG pipelines** with vector databases like **ChromaDB and Pinecone**
-- Work with **NLP pipelines** including embeddings, tokenization, and transformers
-- Apply **Deep Learning models (RNN, LSTM)** for sequence-based problems
-- Handle **model deployment, scaling, and optimization in real-world applications**
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/><br/>
+  - Design **RAG pipelines** with vector databases like **ChromaDB and Pinecone** <br/><br/>
+
+  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge"/><br/>
+  - Work with **vector databases for semantic search and retrieval systems** <br/><br/>
+
+  <img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Transformers-orange?style=for-the-badge"/><br/>
+  - Work with **NLP pipelines including embeddings, tokenization, and transformers** <br/><br/>
+
+  <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%7C%20LSTM-red?style=for-the-badge"/><br/>
+  - Apply **Deep Learning models (RNN, LSTM)** for sequence-based problems <br/><br/>
+
+  <img src="https://img.shields.io/badge/Deployment-Optimization%20%7C%20Scaling-purple?style=for-the-badge"/><br/>
+  - Handle **model deployment, scaling, and optimization in real-world applications**
+</p>
 ---
 ## 🛠️ Tech Stack
 
