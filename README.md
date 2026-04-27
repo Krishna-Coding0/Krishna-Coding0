@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td>
-      <h1>Hi 👋, I'm Krishna Kumar Singh</h1>
+      <h1>Hi, I'm Krishna Kumar Singh</h1>
       <h3>AI Engineer | GenAI | RAG Systems | Backend Python Developer</h3>
-      <h4>Building Production-Ready GenAI & RAG Systems 🚀</h4>
+      <h4>Building Production-Ready GenAI & RAG Systems</h4>
     </td>
     <td>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2luODZuemFuZW5wY3V6ZzhibTZkYmNzeTZxMW1vNHl0YW80bG54cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
@@ -13,7 +13,11 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/source-code.png" height="22"/> 
+  About Me
+</h2>
+
 - AI Engineer focused on **Generative AI, RAG & LLM applications**
 - Strong in **Machine Learning & Deep Learning with real-world implementation**
 - Backend developer using **Django & FastAPI**
@@ -22,16 +26,19 @@
 
 ---
 
-<h2 align="center">AI / ML Expertise</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/artificial-intelligence.png" height="22"/> 
+  AI / ML Expertise
+</h2>
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector%20DB-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deployment-purple?style=for-the-badge"/>
-</p>
 </p>
 
 ---
@@ -41,9 +48,10 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" height="25"/> 
+  <img src="https://img.icons8.com/fluency-systems-filled/48/laptop.png" height="22"/> 
   AI / ML
 </h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> Python
   <img width="20"/>
@@ -56,7 +64,11 @@
 
 ---
 
-### ⚙️ Backend Development
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/server.png" height="22"/> 
+  Backend Development
+</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/> Django
   <img width="20"/>
@@ -65,7 +77,11 @@
 
 ---
 
-### 🗄️ Databases
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/database.png" height="22"/> 
+  Databases
+</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> MySQL
   <img width="20"/>
@@ -74,7 +90,11 @@
 
 ---
 
-### ⚙️ DevOps / Tools
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/settings.png" height="22"/> 
+  DevOps / Tools
+</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> Docker
   <img width="20"/>
@@ -87,20 +107,28 @@
 
 ---
 
-<h2 align="center">atured Projects</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/project.png" height="22"/> 
+  Featured Projects
+</h2>
+
 ### 🧠 RAG-Bot Pro
 - Built an advanced **RAG system** for querying documents (PDF, Word, Images)
 - Tech: **LangChain, ChromaDB, OpenAI**
 - Features:
-  - Semantic search
-  - Context-aware responses
+  - Semantic search  
+  - Context-aware responses  
   - Multi-format document support  
 - 🔗 Live Demo: YOUR_LINK  
 - 🔗 GitHub Repo: YOUR_REPO  
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/combo-chart.png" height="22"/> 
+  GitHub Stats
+</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Coding0&show_icons=true&theme=radical" />
 </p>
@@ -111,13 +139,19 @@
 
 ---
 
-<h2 align="center">🌍 Connect With Me</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/contacts.png" height="22"/> 
+  Connect With Me
+</h2>
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your.email@example.com  
+- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- Email: your.email@example.com  
 
 ---
 
-## ⚡ Fun Fact
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/light-on.png" height="22"/> 
+  Fun Fact
+</h2>
 
-- I don’t just train models, I **deploy them to production 🚀**
+- I don’t just train models, I **deploy them to production**
