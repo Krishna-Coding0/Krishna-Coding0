@@ -5,7 +5,7 @@
       <h3>AI Engineer | GenAI | RAG Systems | Backend Python Developer</h3>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2luODZuemFuZW5wY3V6ZzhibTZkYmNzeTZxMW1vNHl0YW80bG54cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
     </td>
   </tr>
 </table>
