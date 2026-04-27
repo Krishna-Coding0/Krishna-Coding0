@@ -14,23 +14,26 @@
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer focused on **Generative AI, RAG & LLM Applications**
-- 🧠 Strong foundation in **Machine Learning & Deep Learning**
-- ⚙️ Backend Developer with hands-on experience in **Django & FastAPI**
-- 🗄️ Experienced with databases like **MySQL, MongoDB**
-- 📊 Passionate about building **end-to-end AI systems (MLOps + Deployment)**
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%7C%20RAG%20%7C%20LLMs-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20MongoDB-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-End--to--End%20Deployment-purple?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🧠 AI / ML Expertise
 
-- 🔹 Generative AI (LLMs, Prompt Engineering)
-- 🔹 RAG (Retrieval-Augmented Generation)
-- 🔹 Vector Databases (ChromaDB, Pinecone)
-- 🔹 NLP (Embeddings, Tokenization, Transformers)
-- 🔹 Deep Learning (RNN, LSTM, Neural Networks)
-- 🔹 Model Deployment & Optimization
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20Prompt%20Engineering-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Transformers-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%7C%20LSTM-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Optimization%20%7C%20Scaling-purple?style=for-the-badge"/>
+</p>
 ---
 ## 🛠️ Tech Stack
 
