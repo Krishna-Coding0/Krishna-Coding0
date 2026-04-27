@@ -3,6 +3,7 @@
     <td>
       <h1>Hi 👋, I'm Krishna Kumar Singh</h1>
       <h3>AI Engineer | GenAI | RAG Systems | Backend Python Developer</h3>
+      <h4>Building Production-Ready GenAI & RAG Systems 🚀</h4>
     </td>
     <td>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2luODZuemFuZW5wY3V6ZzhibTZkYmNzeTZxMW1vNHl0YW80bG54cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
@@ -11,24 +12,14 @@
 </table>
 
 ---
+
 ## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%7C%20RAG%20%7C%20LLMs-blue?style=for-the-badge"/><br/>
-  - AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications** <br/><br/>
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-orange?style=for-the-badge"/><br/>
-  - Strong understanding of **Machine Learning & Deep Learning concepts with practical implementation** <br/><br/>
-
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-green?style=for-the-badge"/><br/>
-  - Backend developer experienced in building scalable APIs using **Django & FastAPI** <br/><br/>
-
-  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20MongoDB-red?style=for-the-badge"/><br/>
-  - Hands-on experience with **MySQL and MongoDB for production-level systems** <br/><br/>
-
-  <img src="https://img.shields.io/badge/MLOps-End--to--End%20Deployment-purple?style=for-the-badge"/><br/>
-  - Focused on **end-to-end AI systems including training, evaluation, and deployment (MLOps)** 
-</p>
+- AI Engineer focused on **Generative AI, RAG & LLM applications**
+- Strong in **Machine Learning & Deep Learning with real-world implementation**
+- Backend developer using **Django & FastAPI**
+- Experience with **MySQL, MongoDB & MLOps pipelines**
+- Passionate about building **end-to-end AI systems (training → deployment)**
 
 ---
 
@@ -95,8 +86,13 @@
 
 ### 🧠 RAG-Bot Pro
 - Built an advanced **RAG system** for querying documents (PDF, Word, Images)
-- Used **LangChain + Vector DB + LLMs**
-- Supports intelligent search + contextual answers
+- Tech: **LangChain, ChromaDB, OpenAI**
+- Features:
+  - Semantic search
+  - Context-aware responses
+  - Multi-format document support  
+- 🔗 Live Demo: YOUR_LINK  
+- 🔗 GitHub Repo: YOUR_REPO  
 
 ---
 
@@ -114,8 +110,8 @@
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 📧 Email: your.email@example.com  
 
 ---
 
