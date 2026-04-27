@@ -16,7 +16,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%7C%20RAG%20%7C%20LLMs-blue?style=for-the-badge"/>
-  - AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications**
+  - AI Engineer specializing in **Generative AI, RAG pipelines, and LLM-based applications** <br/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20MongoDB-red?style=for-the-badge"/>
