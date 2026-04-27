@@ -26,12 +26,12 @@
 ## 🧠 AI / ML Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20Prompt%20Engineering-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Transformers-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%7C%20LSTM-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Optimization%20%7C%20Scaling-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-purple?style=for-the-badge"/>
 </p>
 
 ---
