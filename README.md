@@ -31,7 +31,7 @@
   AI / ML Expertise
 </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
