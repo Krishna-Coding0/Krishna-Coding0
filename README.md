@@ -14,7 +14,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/source-code.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/source-code.png" height="22"/> 
   About Me
 </h2>
 
@@ -27,8 +27,8 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/artificial-intelligence.png" height="22"/> 
-<u>  AI / ML Expertise</u>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="22"/> 
+  AI / ML Expertise
 </h2>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/laptop.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/laptop.png" height="22"/> 
   AI / ML
 </h3>
 
@@ -65,7 +65,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/server.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/server.png" height="22"/> 
   Backend Development
 </h3>
 
@@ -78,7 +78,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/database.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/database.png" height="22"/> 
   Databases
 </h3>
 
@@ -91,7 +91,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/settings.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/settings.png" height="22"/> 
   DevOps / Tools
 </h3>
 
@@ -108,7 +108,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/project.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/project.png" height="22"/> 
   Featured Projects
 </h2>
 
@@ -119,12 +119,12 @@
   - Semantic search  
   - Context-aware responses  
   - Multi-format document support  
-- 🔗 GitHub Repo: [RAG-ChatBOT](https://github.com/Krishna-Coding0/RAG-ChatBOT)  
+- 🔗 GitHub Repo: [RAG-ChatBOT](https://github.com/Krishna-Coding0/RAG-ChatBOT)
 
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/combo-chart.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" height="22"/> 
   GitHub Stats
 </h2>
 
@@ -139,17 +139,17 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/contacts.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/contacts.png" height="22"/> 
   Connect With Me
 </h2>
 
-- LinkedIn: [Krishna Kumar Singh  ](https://www.linkedin.com/in/krishna-kumar-singh01/)
+- LinkedIn: https://linkedin.com/in/krishna-kumar-singh01/
 - Email: krishk2100@gmail.com
 
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/light-on.png" height="22"/> 
+  <img src="https://img.icons8.com/fluency/48/light-on.png" height="22"/> 
   Fun Fact
 </h2>
 
