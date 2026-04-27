@@ -28,7 +28,7 @@
 
 <h2 align="center">
   <img src="https://img.icons8.com/fluency-systems-filled/48/artificial-intelligence.png" height="22"/> 
-  AI / ML Expertise
+<u>  AI / ML Expertise</u>
 </h2>
 
 <p align="center">
