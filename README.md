@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td width="70%">
+    <td>
       <h1>Hi 👋, I'm Krishna Kumar Singh</h1>
       <h3>AI Engineer | GenAI | RAG Systems | Backend Python Developer</h3>
     </td>
-    <td width="30%" align="right">
+    <td>
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
     </td>
   </tr>
