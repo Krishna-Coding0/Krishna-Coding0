@@ -22,8 +22,7 @@
 
 ---
 
-## 🧠 AI / ML Expertise
-
+<h2 align="center">AI / ML Expertise</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
@@ -37,8 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
+<h2 align="center"> Tech Stack </h2>
 ### 🧠 AI / ML
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> Python
@@ -83,8 +81,7 @@
 
 ---
 
-## 🔥 Featured Projects
-
+<h2 align="center">atured Projects</h2>
 ### 🧠 RAG-Bot Pro
 - Built an advanced **RAG system** for querying documents (PDF, Word, Images)
 - Tech: **LangChain, ChromaDB, OpenAI**
@@ -97,8 +94,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Coding0&show_icons=true&theme=radical" />
 </p>
@@ -109,7 +105,7 @@
 
 ---
 
-## 🌍 Connect With Me
+<h2 align="center">🌍 Connect With Me</h2>
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
 - 📧 Email: your.email@example.com  
